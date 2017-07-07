@@ -7,4 +7,4 @@ Ce projet consistait en la création de robots de combats dirigés à distance (
 Vidéo du projet
 ===================
 
-![Video Youtube](https://youtu.be/xXl1z7WQz5I)
+[![Youtube Video](https://img.youtube.com/vi/xXl1z7WQz5I/0.jpg)](https://youtu.be/xXl1z7WQz5I "Youtube Video")
